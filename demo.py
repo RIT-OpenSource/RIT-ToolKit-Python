@@ -15,4 +15,4 @@ if __name__  ==  '__main__':
     #
     w = Window()
     w.show()
-    app.exec_()
+    app.exec_() 
