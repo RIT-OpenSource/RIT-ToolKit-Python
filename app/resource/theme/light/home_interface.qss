@@ -1,0 +1,8 @@
+QFrame#homeInterface{
+    background-color: rgb(249, 249, 249);
+}
+
+QLabel{
+    color: black;
+    font: 24px "Microsoft YaHei";
+}

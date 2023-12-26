@@ -1,0 +1,56 @@
+Widget > QLabel{
+    font: 24px "Microsoft YaHei";
+}
+
+Widget{
+    background-color: rgb(249, 249, 249);
+}
+
+settingInterface, #scrollWidget{
+    background-color: rgb(249, 249, 249);
+    border: none;
+}
+
+QScrollArea{
+    background-color: rgb(249, 249, 249);
+    border: none;
+}
+
+QLabel#settingLabel{
+    font: 33px "Microsoft YaHei Light";
+    background-color: transparent;
+}
+
+Window{
+    background-color: rgb(243, 243, 243);
+}
+
+CustomTitleBar > QLabel#titleLabel{
+    background: transparent;
+    font: 13px "Segoe UI";
+    padding: 0 4px
+}
+
+MinimizeButton{
+    qproperty-normalColor: Black;
+    qproperty-normalBackgroundColor: transparent;
+    qproperty-hoverColor: Black;
+    qproperty-hoverBackgroundColor: rgba(0, 0, 0, 26);
+    qproperty-pressedColor: Black;
+    qproperty-pressedBackgroundColor: rgba(0, 0, 0, 51)
+}
+
+
+MaximizeButton{
+    qproperty-normalColor: Black;
+    qproperty-normalBackgroundColor: transparent;
+    qproperty-hoverColor: Black;
+    qproperty-hoverBackgroundColor: rgba(0, 0, 0, 26);
+    qproperty-pressedColor: Black;
+    qproperty-pressedBackgroundColor: rgba(0, 0, 0, 51)
+}
+
+CloseButton{
+    qproperty-normalColor: Black;
+    qproperty-normalBackgroundColor: transparent;
+}

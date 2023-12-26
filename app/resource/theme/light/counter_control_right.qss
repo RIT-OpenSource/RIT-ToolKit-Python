@@ -1,0 +1,4 @@
+QLabel#CounterRightLabel{
+    color: black;
+    font: 16px 'Microsoft YaHei';
+}

@@ -1,0 +1,8 @@
+QFrame#counterInterface{
+    background-color: rgb(39, 39, 39);
+}
+
+QLabel#counterInterfaceTitle{
+    color: white;
+    font: 33px "Microsoft YaHei Light";
+}

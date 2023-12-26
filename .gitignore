@@ -1,0 +1,11 @@
+/dist
+/env
+
+buildapp.bat
+buildqm.bat
+buildts.bat
+
+demo.spec
+
+**/__pycache__
+**/*.pyc

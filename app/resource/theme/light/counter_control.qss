@@ -1,0 +1,10 @@
+QFrame#CounterFrame{
+    background-color: #fdfdfd;
+    border: 1px solid #ebebeb;
+    border-radius: 8px;
+}
+
+QLabel#CounterTitleLabel{
+    color: black;
+    font: 16px 'Microsoft YaHei';
+}
